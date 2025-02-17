@@ -13,6 +13,7 @@ C:\Users\PEPO\ConsultorioOdontologico\obj\Debug\net8.0\ConsultorioOdontologico.c
 C:\Users\PEPO\ConsultorioOdontologico\obj\Debug\net8.0\ConsultorioOdontologico.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\PEPO\ConsultorioOdontologico\obj\Debug\net8.0\ConsultorioOdontologico.RazorAssemblyInfo.cache
 C:\Users\PEPO\ConsultorioOdontologico\obj\Debug\net8.0\ConsultorioOdontologico.RazorAssemblyInfo.cs
+C:\Users\PEPO\ConsultorioOdontologico\obj\Debug\net8.0\ConsultorioOdontologico.sourcelink.json
 C:\Users\PEPO\ConsultorioOdontologico\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\PEPO\ConsultorioOdontologico\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\PEPO\ConsultorioOdontologico\obj\Debug\net8.0\staticwebassets\msbuild.ConsultorioOdontologico.Microsoft.AspNetCore.StaticWebAssets.props
